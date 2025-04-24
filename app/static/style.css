@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    text-align: center; /* Centrer tout le contenu dans le container */
+}
+
+h1 {
+    color: #FF3366;
+}
+
+.btn {
+    background-color: #FF3366;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #FF5C8D;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+.bg-pink {
+    background-color: #f06292 !important;
+}
+
+.btn-pink {
+    background-color: #f06292;
+    color: white;
+}
+
+.btn-pink:hover {
+    background-color: #ec407a;
+    color: white;
+}

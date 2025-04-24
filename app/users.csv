@@ -1,0 +1,3 @@
+id,first_name,last_name,username,email,password,reset_code,reset_code_expiry,failed_attempts,lockout_time
+1,Douha,El,douhael,55ce98b8a2-d51985+1@inbox.mailtrap.io,hashed_password,,,
+

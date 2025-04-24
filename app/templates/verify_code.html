@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Vérification du code{% endblock %}
+{% block content %}
+<h2>Vérification du code</h2>
+<form method="POST">
+    <div class="mb-3"><input type="text" class="form-control" name="code" placeholder="Code reçu par email" required></div>
+    <button type="submit" class="btn btn-info">Vérifier</button>
+</form>
+{% endblock %}

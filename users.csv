@@ -1,0 +1,7 @@
+id,first_name,last_name,username,email,password,reset_code,reset_code_expiry,failed_attempts,lockout_time
+1,douha,el,douha el,dohaelangoud5@gmail.com,pbkdf2:sha256:1000000$9fWfJrtuOSD5V1dw$ef49a8c05c6f01cf5e56b9d9ada88e57d86a732b263a1269307018c600255735,random_reset_code,2025-04-12 22:32:03,0,
+2,douha,el,douha el,dohaelangoud5@gmail.com,scrypt:32768:8:1$pST8cPGi2SYnTpH6$648536a3f090ff44e2184704fbd1173efa32513ffe878041ccb5e85cbc7c5e57d002011a57b6c72dcbdf81f11188a5b9888bf27edb32e2223b07afa80e2c24be,,,0,
+3,douha,el,douha el,dohaelangoud5@gmail.com,scrypt:32768:8:1$iEWSdI7tERHHMgca$9f2a9ca42f2fc3733e2698e0b8de511d5cd41a986f1c9bda3bfc415a13fd132300edf69d99a95281d6911bdca1125a13b8eb61a694c5b77c255513b0f9934aae,,,0,
+4,douha,el,douha el,dohaelangoud5@gmail.com,pbkdf2:sha256:1000000$684r4CQpaOodT8Vn$542fb32c7ecee5bf038d86ab957f5b7798ac8e9aac766b1bf083be7a62832bba,,,0,
+5,douha,el,douha el,dohaelangoud5@gmail.com,pbkdf2:sha256:1000000$DlOfzeHvaRoeLE3l$1d463dd0357624942718b8ca708a8dc93350e0d92d9140a46a3b4ee821923802,,,0,
+douha,el,douha el,dohaelangoud5@gmail.com,pbkdf2:sha256:1000000$FfbnSHLfiLDxCvmS$5378d0756e64ae8f38d34de7ae7c5198cdc2cb1af39479cdb33fd335deadf2d4
